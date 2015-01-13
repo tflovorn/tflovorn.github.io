@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Tim Lovorn's Repositories
+#tagline:          The Jekyll Butler
+url:              http://tflovorn.github.io
+#paginate:         1
+baseurl:          /
+author:
+  name:           Tim Lovorn
+#  url:            https://twitter.com/mdo
+  email:          tflovorn@crimson.ua.edu
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/tflovorn/tflovorn.github.io
